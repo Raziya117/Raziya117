@@ -1,4 +1,4 @@
-# Hi there, I'm Raziya 👋
+# Hi, I'm Raziya Mohammad 👋
 
 🎓 I'm a final-year B.Tech student in **Computer Science and Engineering** at **SR University**, currently holding a **9.4 CGPA**.
 
