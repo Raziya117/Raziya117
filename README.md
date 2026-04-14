@@ -29,7 +29,7 @@
 * Designed a responsive website where users can search, book, and manage hotel reservations.
 * Implemented user-friendly UI with multiple sections like destinations, services, and booking forms.
 
-### 🔹 Online Quiz & Assessment System (Current Project)
+### 🔹 Online Quiz & Assessment System
 
 * Console-based quiz system using Core Java.
 * Features include admin question management, timer-based quiz, auto evaluation, and result analysis.
