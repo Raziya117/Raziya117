@@ -50,10 +50,7 @@ Microsoft certified: Azure fundamentals
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Raziya117&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Raziya117&theme=radical&margin-w=10)
-
-
-## 👀 Profile Views
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Raziya117&icon=0&color=0)
+--- 
+[![](https://visitcount.itsvg.in/api?id=Raziya117&icon=0&color=0)](https://visitcount.itsvg.in)
