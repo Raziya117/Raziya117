@@ -43,12 +43,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raziya117&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raziya117&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raziya117&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziya117&layout=compact&theme=gruvbox)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziya117&layout=compact&theme=gruvbox&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Raziya117&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
